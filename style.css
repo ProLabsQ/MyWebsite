@@ -10859,7 +10859,7 @@ video.bg-video {
 
 @media (pointer: coarse) and (hover: none) {
   body {
-    background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3D%2522fall%2Bback%2522&psig=AOvVaw3sYrO0p2yGTWeQeqHMldPg&ust=1737397973202000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDMkfu1gosDFQAAAAAdAAAAABAE") #2a5555 no-repeat center center scroll;
+    background: url("/bg-mobile-fallback.jpg") #2a5555 no-repeat center center scroll;
     background-size: cover;
   }
   body video {
